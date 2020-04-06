@@ -1,2 +1,6 @@
-_site/
-.sass-cache/
+# Web site compilation
+_site/**/*
+
+# Cache folders
+.sass-cache/**/*
+.jekyll-cache/**/*
