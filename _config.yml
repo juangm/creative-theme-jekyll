@@ -8,6 +8,7 @@ url: "juangarciamarin.com" # the base hostname & protocol for your site
 twitter_username:
 github_username: juangm
 linkedin_username: juangm
+dev_profile: juangm
 
 # Build settings
 markdown: kramdown
